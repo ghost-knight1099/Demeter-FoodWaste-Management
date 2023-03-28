@@ -2,6 +2,9 @@
 
 
 ### IV-th Semester Project
+```
+-> This was our special topics group project we did in our 4th semester
+```
 
 ## The Food Waste Management App
 ```
